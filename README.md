@@ -11,7 +11,7 @@ EEE graduate from **KUET** (Khulna, Bangladesh) working on **magnonics and micro
 ## 🔬 Research
 
 - VCMA-gated reconfigurable inline magnonic interferometer on a CoFeB/MgO waveguide (XOR/XNOR logic). *Submitted, IEEE Transactions on Magnetics*
-- Plasmon-enhanced thermal modulation of spin waves in YIG thin films (co-author). *Submitted, ACS Photonics*
+- Plasmon-enhanced thermal modulation of spin waves in YIG thin films (co-author). *Submitted, ACS Omega*
 - Low-cost potentiometric pH sensor using pencil-graphite electrodes. *Submitted, ECCE*
 
 ## 🛠 Tools
