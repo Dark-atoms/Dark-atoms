@@ -7,6 +7,7 @@ EEE graduate from **KUET** (Khulna, Bangladesh) working on **magnonics and micro
 | Repo | What it does |
 |---|---|
 | [mumax3-spinwave-tools](https://github.com/Dark-atoms/mumax3-spinwave-tools) | Tested Python helpers for MuMax3 spin-wave analysis: OVF/table readers, FFT spectra, f(k) dispersion maps, Kittel fits |
+| [journal-line-profiler](https://github.com/Dark-atoms/journal-line-profiler) | Desktop tool: click two points on an image, get its intensity line profile as an Origin-style publication plot or CSV |
 
 ## 🔬 Research
 
