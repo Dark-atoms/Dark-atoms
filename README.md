@@ -6,8 +6,16 @@ EEE graduate from **KUET** (Khulna, Bangladesh) working on **magnonics and micro
 
 | Repo | What it does |
 |---|---|
-| [mumax3-spinwave-tools](https://github.com/Dark-atoms/mumax3-spinwave-tools) | Tested Python helpers for MuMax3 spin-wave analysis: OVF/table readers, FFT spectra, f(k) dispersion maps, Kittel fits |
+| [mumax3-spinwave-tools](https://github.com/Dark-atoms/mumax3-spinwave-tools) (mx3sw) | Tested Python helpers for MuMax3 spin-wave analysis: OVF/table readers, FFT spectra, f(k) dispersion maps, Kittel fits. v0.3.0, [DOI 10.5281/zenodo.24375849](https://doi.org/10.5281/zenodo.24375849), with contributions from outside the project |
 | [journal-line-profiler](https://github.com/Dark-atoms/journal-line-profiler) | Desktop tool: click two points on an image, get its intensity line profile as an Origin-style publication plot or CSV |
+
+## 🤝 Contributions to other projects
+
+Pull requests to the [Ubermag](https://github.com/ubermag) micromagnetics framework (under review):
+
+- [oommfc#177](https://github.com/ubermag/oommfc/pull/177): keep the sign of negative spatially varying parameters (e.g. easy-plane anisotropy) passed to OOMMF
+- [mumax3c#103](https://github.com/ubermag/mumax3c/pull/103): support per-subregion damping in the MuMax3 calculator
+- [discretisedfield#552](https://github.com/ubermag/discretisedfield/pull/552): allow renaming point columns of non-3D line profiles
 
 ## 🔬 Research
 
