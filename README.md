@@ -17,6 +17,7 @@ Pull requests to the [Ubermag](https://github.com/ubermag) micromagnetics framew
 - [oommfc#177](https://github.com/ubermag/oommfc/pull/177): keep the sign of negative spatially varying parameters (e.g. easy-plane anisotropy) passed to OOMMF
 - [mumax3c#103](https://github.com/ubermag/mumax3c/pull/103): support per-subregion damping in the MuMax3 calculator
 - [discretisedfield#552](https://github.com/ubermag/discretisedfield/pull/552): allow renaming point columns of non-3D line profiles
+- [micromagneticmodel#105](https://github.com/ubermag/micromagneticmodel/pull/105): fix the magneto-elastic energy formula in the docs
 
 I also answer micromagnetics questions on the [Ubermag help forum](https://github.com/ubermag/help/issues?q=commenter%3ADark-atoms).
 
