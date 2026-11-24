@@ -19,6 +19,10 @@ Pull requests to the [Ubermag](https://github.com/ubermag) micromagnetics framew
 - [discretisedfield#552](https://github.com/ubermag/discretisedfield/pull/552): allow renaming point columns of non-3D line profiles
 - [micromagneticmodel#105](https://github.com/ubermag/micromagneticmodel/pull/105): fix the magneto-elastic energy formula in the docs
 
+AI agent skills for science:
+
+- [scientific-agent-skills#384](https://github.com/K-Dense-AI/scientific-agent-skills/pull/384): new `mumax3` skill so AI agents can set up and analyse MuMax3 micromagnetic simulations (under review)
+
 I also answer micromagnetics questions on the [Ubermag help forum](https://github.com/ubermag/help/issues?q=commenter%3ADark-atoms).
 
 ## 🔬 Research
