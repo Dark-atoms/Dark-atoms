@@ -18,6 +18,7 @@ Pull requests to the [Ubermag](https://github.com/ubermag) micromagnetics framew
 - [mumax3c#103](https://github.com/ubermag/mumax3c/pull/103): support per-subregion damping in the MuMax3 calculator
 - [discretisedfield#552](https://github.com/ubermag/discretisedfield/pull/552): allow renaming point columns of non-3D line profiles
 - [micromagneticmodel#105](https://github.com/ubermag/micromagneticmodel/pull/105): fix the magneto-elastic energy formula in the docs
+- [ubermag#195](https://github.com/ubermag/ubermag/pull/195): fix `ubermag.debug_info()` crashing when mumax3 is installed
 
 AI agent skills for science:
 
